@@ -1,2 +1,2 @@
-# physicspy
-A python package of the laws of physics
+# physics.h
+A c/c++ header file of the laws of physics
