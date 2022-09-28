@@ -12,11 +12,11 @@
 
 ```
 # Clone your fork of the repo into the current directory
-git clone https://github.com/<your-username>/physicspy.git
+git clone https://github.com/<your-username>/physics.h.git
 # Navigate to the newly cloned directory
-cd physicspy
+cd physics.h
 # Assign the original repo to a remote called "upstream"
-git remote add upstream https://github.com/nilis24/physicspy.git
+git remote add upstream https://github.com/nilis24/physics.h.git
 ```
 
 If you cloned a while ago, get the latest changes from upstream:
