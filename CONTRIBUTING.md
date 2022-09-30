@@ -6,10 +6,6 @@
 
 2. Ask to us if you can be assigned to the issue and wait for our answer
 
-> Note:
-> 
-> You can only be assigned to the issue if you have created it.
-
 **if we assigned to you the issue, then:**
 
 3. Fork the project, clone your fork, and configure the remotes:
