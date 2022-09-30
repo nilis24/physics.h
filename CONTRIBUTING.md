@@ -4,7 +4,11 @@
 
 1. Communicate to us the feature, change or fix that you want to add or change by creating and issue with the template of "Feature, change or fix request"
 
-3. Ask to us if you can be assigned to the issue and wait for our answer
+2. Ask to us if you can be assigned to the issue and wait for our answer
+
+> Note:
+> 
+> You can only be assigned to the issue if you have created it.
 
 **if we assigned to you the issue, then:**
 
