@@ -11,7 +11,7 @@
 > But, if the issue is created by the owner (@Nilis24) or an admin, then you can ask if you can assigned to it although 
 > you have not created that issue
 
-3. Ask to us if you can be assigned to the issue and wait for our answer
+2. Ask to us if you can be assigned to the issue and wait for our answer
 
 **if we assigned to you the issue, then:**
 
