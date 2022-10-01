@@ -4,7 +4,7 @@
 // Coulomb’s Law
 // Electrostatic force between two charged particles according to Coulomb’s Law is given by:
 // F = k*q1*q2/r^2  , where k is Coulomb's constant
-// returns the Force (in Newton) between charges q1 (in coulomb) and q2 (in Coulomb) separated by a distance of r (in metre)
+// returns the Force (in Newton) between charges q1 (in Coulomb) and q2 (in Coulomb) separated by a distance of r (in metre)
 double two_particles_electrostatic_force(double q1, double q2, double r){
     return k*q1*q2/(r*r);
 }
