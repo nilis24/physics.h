@@ -1,3 +1,4 @@
+
 void zeroLawofthermo()
 {
     printf("The zeroth law of thermodynamics defines thermal equilibrium and forms a basis for the definition of temperature: If two systems are each in thermal equilibrium with a third system, then they are in thermal equilibrium with each other.");

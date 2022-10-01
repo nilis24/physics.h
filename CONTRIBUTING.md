@@ -4,14 +4,14 @@
 
 1. Communicate to us the feature, change or fix that you want to add or change by creating and issue with the template of "Feature, change or fix request"
 
+2. Ask to us if you can be assigned to the issue and wait for our answer
+
 > Note:
 > 
 > You can only be assigned to the issue if you have created it.
 >
 > But, if the issue is created by the owner (@Nilis24) or an admin, then you can ask if you can assigned to it although 
 > you have not created that issue
-
-2. Ask to us if you can be assigned to the issue and wait for our answer
 
 **if we assigned to you the issue, then:**
 
