@@ -40,3 +40,4 @@ double FocalLengthLens(double v,double u)
 double MirrorMagnification(double v,double u)
 {
     return v/u;
+}
