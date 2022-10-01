@@ -1,4 +1,5 @@
-double G = 6.67E-11;
+//Gravitation Constant
+const double G = 6.67E-11;
 
 //Coulomb constant
 const double coulomb_constant = 8.987*1e9;
