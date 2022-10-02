@@ -105,5 +105,5 @@ The study of motion of a system of bodies without directly considering the force
  <a   target="_blank" href="https://discord.gg/AHAqK569Hq">
 			<img src="images/join_us.png"></a>
    <br>
-	<small>A Hackathon 2022 Repo </small>
+	<small>A Hacktoberfest 2022 Repo </small>
 </div>
