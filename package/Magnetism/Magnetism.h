@@ -25,3 +25,11 @@ double radius_particle_under_magneticfield(double m, double v, double q, double 
 	//r = radius of circular path obtained
 	r = (m*v)/(q*B);
 }
+double coulumbs_law_magnetism(double m1, double m2,double r)
+{  
+	//m1 and m2 are the mass of objects 
+	//r is distance b/w those two objects
+	double F;
+   F=(u*m1*m2)/(4*pi*pow(r,2));
+   return F;
+}
