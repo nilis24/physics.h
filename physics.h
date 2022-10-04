@@ -4,3 +4,4 @@
 #include "package/energies/energies.h"
 #include "package/kinematics/kinematics.h"
 #include "package/optics/optics.h"
+#include "package/Magnetism/Magnetism.h"
