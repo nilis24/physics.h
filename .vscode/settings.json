@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "test.h": "c",
-        "constants.h": "c"
+        "constants.h": "c",
+        "magnetism.h": "c"
     }
 }
