@@ -100,11 +100,11 @@ The study of motion of a system of bodies without directly considering the force
 <br>
 <br>
 
-<center>
+## Thanks to all contributors!
 <a href = "https://github.com/nilis24/physics.h/graphs/contributors">
    <img src = "https://contrib.rocks/image?repo=nilis24/physics.h"/>
 </a>
-</center>
+
 <br>
 <br>
 	
