@@ -23,3 +23,7 @@ double GravitationalPotentialCircularDisc(double m, double r, double x, double x
     double t = pow(r, 2) + pow(xx, 2) - x;
     return -2 * G * m / (pow(t, 0.5) * pow(r, 2));
 }
+double Gravitationalacceletration(double m, double r, ) {
+   
+    return  G * m / pow(r, 2);
+}
