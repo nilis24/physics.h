@@ -6,7 +6,6 @@ void zerothlaw()
 {
     printf("he zeroth law states that if two thermodynamic systems are in thermal equilibrium with each other, and also separately in thermal equilibrium with a third system, then the three systems are in thermal equilibrium with each other.");
 }
-
 void firstlaw()
 {
     printf("The Change in internal energy is equal to the heat added to the system minus the work done by the system.");
