@@ -24,3 +24,6 @@ const double avogadro = 6.022*1e23;
 
 //Permittivity of vacuum
 const double permittivity_of_vacuum = 8.85E-12;
+
+//Magnitude of acceleration due to gravity
+const double g = 9.81;
