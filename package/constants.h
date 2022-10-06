@@ -24,3 +24,20 @@ const double avogadro = 6.022*1e23;
 
 //Permittivity of vacuum
 const double permittivity_of_vacuum = 8.85E-12;
+
+//Mass of electron
+const double mass_of_electron = 9.109383*1e31;
+
+//Mass of proton
+const double mass_of_proton = 1.672621*1e27;
+
+//Mass of neutron
+const double mass_of_neutron = 1.674927*1e27;
+
+//Charge of Electron
+const double charge_on_electrol = 1.602176*1e19;
+
+//Magnetic permeability
+const double vaccum_permeablity = 1.256637*1e6;
+
+
