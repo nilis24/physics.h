@@ -24,3 +24,6 @@ const double avogadro = 6.022*1e23;
 
 //Permittivity of vacuum
 const double permittivity_of_vacuum = 8.85E-12;
+
+//Charge of an electron
+const double charge_of_electron = 1.6E-19;
